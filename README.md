@@ -76,8 +76,8 @@ I enjoy working across the data lifecycle — ingestion, transformation, modelin
 ## 📊 GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaswanthredd&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanthredd&layout=compact&theme=default&hide_border=true" height="160" />
+  <img src="https://raw.githubusercontent.com/Jaswanthredd/github-stats/master/generated/overview.svg" height="160">
+  <img src="https://raw.githubusercontent.com/Jaswanthredd/github-stats/master/generated/languages.svg" height="160">
 </p>
 
 ---
