@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaswanth Thathireddy
+# Hi, I'm Jaswanth Thathireddy
 
 Data Engineer with 3 years of experience and currently pursuing a Master’s in **Data Science & Analytics at EPITA, Paris**.  
 I specialize in building automated data pipelines, transforming raw operational data into actionable insights, and enabling data‑driven decision making at scale.
